@@ -1,6 +1,5 @@
 # Q12
 
-![image-20231103105842390](C:\Users\kentx\AppData\Roaming\Typora\typora-user-images\image-20231103105842390.png)
 
 ~~~sql
 SQL = "select O_ORDERKEY from orders, lineitem  where o_orderkey = l_orderkey"
@@ -145,4 +144,4 @@ The average time cost:47.555989999999525
 | R2K Relative Error |         0.0263%         |        0.1625%         |   0.5235%   |  0.4461%   |
 |    R2K Time(s)     |         25.592          |         2.097          |   33.320    |   47.556   |
 
-![1700616981454](C:\Users\kentx\Documents\WeChat Files\wxid_dvvz89zl6o6m12\FileStorage\Temp\1700616981454.png)
+
