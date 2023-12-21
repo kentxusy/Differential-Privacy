@@ -49,8 +49,8 @@ class Query():
 def get_query_tuple(query):
     mydb = mysql.connector.connect(
         host='localhost',
-        user='root',
-        password='123456',
+        user='****',
+        password='****',
         database='tpch',
         auth_plugin='mysql_native_password'
     )
